@@ -1,0 +1,41 @@
+Team,HS,HST,Shots accuracy Home,AS,AST,Shots accuracy Away,Shots accuracy,H/A
+Arsenal,256,96,37.5,0,0,0,36.48,Home
+Bournemouth,229,82,35.81,0,0,0,36.47,Home
+Brighton,200,53,26.5,0,0,0,29.59,Home
+Burnley,210,66,31.43,0,0,0,32.03,Home
+Cardiff,230,68,29.57,0,0,0,30.22,Home
+Chelsea,325,118,36.31,0,0,0,32.67,Home
+Crystal Palace,294,76,25.85,0,0,0,29.74,Home
+Everton,279,85,30.47,0,0,0,34.14,Home
+Fulham,274,86,31.39,0,0,0,32.89,Home
+Huddersfield,203,57,28.08,0,0,0,29.5,Home
+Leicester,298,99,33.22,0,0,0,35.73,Home
+Liverpool,335,126,37.61,0,0,0,39.37,Home
+Man City,386,148,38.34,0,0,0,38.07,Home
+Man United,284,126,44.37,0,0,0,42.78,Home
+Newcastle,266,80,30.08,0,0,0,31.98,Home
+Southampton,258,89,34.5,0,0,0,33.75,Home
+Tottenham,308,105,34.09,0,0,0,35.26,Home
+Watford,224,83,37.05,0,0,0,34.79,Home
+West Ham,245,88,35.92,0,0,0,35.6,Home
+Wolves,267,85,31.84,0,0,0,31.86,Home
+Arsenal,0,0,0,210,74,35.24,36.48,Away
+Bournemouth,0,0,0,218,81,37.16,36.47,Away
+Brighton,0,0,0,165,55,33.33,29.59,Away
+Burnley,0,0,0,149,49,32.89,32.03,Away
+Cardiff,0,0,0,187,58,31.02,30.22,Away
+Chelsea,0,0,0,281,80,28.47,32.67,Away
+Crystal Palace,0,0,0,197,70,35.53,29.74,Away
+Everton,0,0,0,216,84,38.89,34.14,Away
+Fulham,0,0,0,179,63,35.2,32.89,Away
+Huddersfield,0,0,0,197,61,30.96,29.5,Away
+Leicester,0,0,0,217,85,39.17,35.73,Away
+Liverpool,0,0,0,239,100,41.84,39.37,Away
+Man City,0,0,0,297,112,37.71,38.07,Away
+Man United,0,0,0,242,99,40.91,42.78,Away
+Newcastle,0,0,0,178,62,34.83,31.98,Away
+Southampton,0,0,0,222,73,32.88,33.75,Away
+Tottenham,0,0,0,228,84,36.84,35.26,Away
+Watford,0,0,0,210,68,32.38,34.79,Away
+West Ham,0,0,0,196,69,35.2,35.6,Away
+Wolves,0,0,0,207,66,31.88,31.86,Away
