@@ -4,6 +4,30 @@
 
 - 🔭 This project is a simple Analysis Dashboard For **English Premier League 2018-2019**
    <h4> Using Python Libraries: Pandas, Numpy, Dash and Plolty.</h4>
+![BAN](https://github.com/omaraz/EPD18-19Dashboard/blob/main/readme_images/dashboard1.PNG?raw=true)
+
+<h2> Selected Team Summary Statistics</h2>
+
+![BAN](https://github.com/omaraz/EPD18-19Dashboard/blob/main/readme_images/dashboard21.PNG?raw=true)
+![BAN](https://github.com/omaraz/EPD18-19Dashboard/blob/main/readme_images/dashboard22.PNG?raw=true)
+
+<h2> Season Summary Statistics</h2>
+
+![BAN](https://github.com/omaraz/EPD18-19Dashboard/blob/main/readme_images/dashboard3.PNG?raw=true)
+![BAN](https://github.com/omaraz/EPD18-19Dashboard/blob/main/readme_images/dashboard4.PNG?raw=true)
+
+<h2> Refrees Summary Statistics for the Season</h2>
+
+![BAN](https://github.com/omaraz/EPD18-19Dashboard/blob/main/readme_images/dashboard5.PNG?raw=true)
+
+<h2>Booking Ration per Team Statistics for the Season</h2>
+
+![BAN](https://github.com/omaraz/EPD18-19Dashboard/blob/main/readme_images/dashboard6.PNG?raw=true)
+
+<h2>Matechs map for the Season</h2>
+
+![BAN](https://github.com/omaraz/EPD18-19Dashboard/blob/main/readme_images/dashboard7.PNG?raw=true)
+   
   <h4> Check its Deplyment as Website  https://dashboard-epl.herokuapp.com/</h4>
   
 - 📫 How to reach me **es-omarabdelaziz2021@alexu.edu.eg**
